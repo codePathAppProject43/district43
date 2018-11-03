@@ -14,8 +14,6 @@ This allows you to see friends' schedules and events for the week. It also allow
 
 ---
 
-# Product Spec
-
 ## 1. User Stories (Required and Optional)
 
 **Required Must-have Stories**
