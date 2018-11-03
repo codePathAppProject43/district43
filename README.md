@@ -86,11 +86,6 @@ This allows you to see friends' schedules and events for the week. It also allow
    * Message screen
    * Event sharing/creating screen
    * Schedule
-
-### User Stories
-// TODO: Enumerate User Stories
-1. User can...
-
 ---
 
 ### Wireframes
