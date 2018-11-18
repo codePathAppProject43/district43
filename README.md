@@ -91,6 +91,10 @@ This allows you to see friends' schedules and events for the week. It also allow
 ### Wireframes
 // TODO: Add Wireframe Images
 
+
+### Wireframe Walkthrough
+<img src="http://g.recordit.co/6AxLYAvJQz.gif" width=200><br>
+
 ---
 
 ### App Pitch Presentation
