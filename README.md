@@ -89,7 +89,7 @@ This allows you to see friends' schedules and events for the week. It also allow
 ---
 
 ### Wireframes
-// TODO: Add Wireframe Images
+![screen shot 2018-11-17 at 7 08 58 pm](https://user-images.githubusercontent.com/35607661/48667342-8235d380-eaa1-11e8-97d2-ba9ba2aec73c.jpg)
 
 
 ### Wireframe Walkthrough
