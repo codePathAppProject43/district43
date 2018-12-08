@@ -98,4 +98,4 @@ This allows you to see friends' schedules and events for the week. It also allow
 ---
 
 ### App Pitch Presentation
-// TODO: Add link to Pitch Presentation Deck
+https://docs.google.com/presentation/d/1n50vlyaL0sxVKgRuHHH-MuiMGyg8_VOe_u3LDG4hzsM/edit?usp=sharing
